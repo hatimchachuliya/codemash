@@ -1,0 +1,33 @@
+*{
+	
+	margin:0px;
+	padding:0px;
+}
+.tag
+{
+	display:block;
+	border:1px transparent black;
+	font-size:40px;
+	padding:5px;
+	padding-bottom:1px;
+	padding-left:120px;
+	padding-bottom:10px;
+	font-family:Consolas;
+	-webkit-box-shadow:rgb(110,110,110) 3px 3px 3px;
+	background-color:#7979d2;
+	font-weight:bold;
+	color:white;
+}
+body
+{
+	background:-webkit-linear-gradient(top,#ffffff,#ccccff);
+	
+}
+.error
+{
+	text-align:center;
+	padding:40px;
+	border:0.5px solid black;
+	width:auto;
+	
+}

@@ -1,0 +1,95 @@
+*{
+	
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.tag
+{
+	display:block;
+	border:1px transparent black;
+	
+	padding:1px;
+
+	padding-left:100px;
+
+	
+	-webkit-box-shadow:rgb(110,110,110) 3px 3px 3px;
+	background-color:#7979d2;
+	font-weight:bold;
+	color:white;
+}
+body
+{
+	background:-webkit-linear-gradient(top,#ffffff,#ccccff);
+	
+}
+
+.bb
+{   display:block;
+	border:1px transparent black;
+	font-family:Consolas;
+	font-size:30px;
+	background-color:white;
+	color:#7979d2;
+	width:20px;
+	padding-left:5px;
+	padding-right:40px;
+	height:40px;
+	padding-bottom:0px;
+	font-weight:bold;
+	border:1px solid #7979d2;
+	 border-radius: 5px;
+	
+
+	}
+	a{
+		color:black;
+	}
+	
+a:link {
+    text-decoration: none;
+	color:black; 
+}
+
+a:visited {
+    text-decoration: none;
+color:black; 
+	}
+
+a:hover {
+    text-decoration: none;
+color:black; 
+	}
+
+a:active {
+    text-decoration: none;
+color:black; 
+	}
+#text
+{
+	padding-left:100px;
+}
+.set_coverimg
+{
+	margin-bottom:100px;
+}
+.glyphicon .glyphicon-globe
+{
+	font-size:25px;
+}
+.glyphicon .glyphicon-user
+{
+	font-size:25px;
+}
+
+.glyphicon .glyphicon-wrench
+{
+	font-size:25px;
+color:yellow;
+	}
+
+
+
+
+
